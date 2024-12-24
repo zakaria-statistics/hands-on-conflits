@@ -1,5 +1,5 @@
 // this is a comment
 
-function sum(a, b) {
+function add(a, b) {
     return a + b;
 }
